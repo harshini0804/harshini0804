@@ -72,9 +72,9 @@ A responsive portfolio website to showcase my work in FastAPI, React, and Web De
 
 ## 📈 GitHub Stats
 
-![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshini0804&show_icons=true&theme=default)
+![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshini0804&show_icons=true&theme=catppuccin_latte&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshini0804&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshini0804&layout=compact&theme=catppuccin_latte)
 
 ---
 
